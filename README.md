@@ -69,3 +69,7 @@ The application stores data in CSV files located in the `data/` directory:
 - `fights.csv`
 
 These files should remain in their original location for the application to function correctly.
+
+## Author
+
+Patrick O'Neill
